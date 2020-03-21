@@ -1,0 +1,580 @@
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\Book Club Web Service.dll.config
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\Book Club Web Service.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\Book Club Web Service.pdb
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\csc.exe
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\csc.exe.config
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\csc.rsp
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\csi.exe
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\csi.exe.config
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\csi.rsp
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\System.AppContext.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Console.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Net.Http.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\vbc.exe
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\vbc.exe.config
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\vbc.rsp
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.csprojAssemblyReference.cache
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.csproj.CopyComplete
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.dll
+C:\Users\HP9GD85W8\source\repos\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.pdb
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\Book Club Web Service.dll.config
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\Book Club Web Service.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\Book Club Web Service.pdb
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csc.exe
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csc.exe.config
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csc.rsp
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csi.exe
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csi.exe.config
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csi.rsp
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.AppContext.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Console.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Net.Http.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\vbc.exe
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\vbc.exe.config
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\vbc.rsp
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.csprojAssemblyReference.cache
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.csproj.CopyComplete
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.dll
+C:\Users\Kami\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.pdb
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\Book Club Web Service.dll.config
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\Book Club Web Service.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\Book Club Web Service.pdb
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csc.exe
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csc.exe.config
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csc.rsp
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csi.exe
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csi.exe.config
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csi.rsp
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.AppContext.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Console.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Net.Http.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\vbc.exe
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\vbc.exe.config
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\vbc.rsp
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.csprojAssemblyReference.cache
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.csproj.CopyComplete
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.dll
+C:\Users\HP9GD85W8\Desktop\C# 12-03-2020 FROM HOME NEW\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.pdb
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\Book Club Web Service.dll.config
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\Book Club Web Service.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\Book Club Web Service.pdb
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csc.exe
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csc.exe.config
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csc.rsp
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csi.exe
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csi.exe.config
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csi.rsp
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.AppContext.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Console.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Net.Http.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\vbc.exe
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\vbc.exe.config
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\vbc.rsp
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.csprojAssemblyReference.cache
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.csproj.CopyComplete
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.dll
+C:\Users\HP9GD85W8\Desktop\C# 13-03-2020 CTI MORNING NEW\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.pdb
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\Book Club Web Service.dll.config
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\Book Club Web Service.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\Book Club Web Service.pdb
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csc.exe
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csc.exe.config
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csc.rsp
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csi.exe
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csi.exe.config
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csi.rsp
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.AppContext.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Console.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Net.Http.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\vbc.exe
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\vbc.exe.config
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\vbc.rsp
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.csprojAssemblyReference.cache
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.csproj.CopyComplete
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.dll
+C:\Users\Kami\Desktop\C# 13-03-2020 CTI Afternoon NEW\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.pdb
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\Book Club Web Service.dll.config
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\Book Club Web Service.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\Book Club Web Service.pdb
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csc.exe
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csc.exe.config
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csc.rsp
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csi.exe
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csi.exe.config
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csi.rsp
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.AppContext.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Console.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Net.Http.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\vbc.exe
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\vbc.exe.config
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\vbc.rsp
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.csprojAssemblyReference.cache
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.csproj.CopyComplete
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.dll
+C:\Users\Kami\Desktop\C# 14-03-2020 HOME SATURDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.pdb
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\Book Club Web Service.dll.config
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\Book Club Web Service.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\Book Club Web Service.pdb
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csc.exe
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csc.exe.config
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csc.rsp
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csi.exe
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csi.exe.config
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csi.rsp
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.AppContext.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Console.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Net.Http.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\vbc.exe
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\vbc.exe.config
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\vbc.rsp
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.csprojAssemblyReference.cache
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.csproj.CopyComplete
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.dll
+C:\Users\Kami\Desktop\C# 15-03-2020 HOME SUNDAY 6PM NEW\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.pdb
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\Book Club Web Service.dll.config
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\Book Club Web Service.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\Book Club Web Service.pdb
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csc.exe
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csc.exe.config
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csc.rsp
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csi.exe
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csi.exe.config
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csi.rsp
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.AppContext.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Console.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Net.Http.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\vbc.exe
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\vbc.exe.config
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\vbc.rsp
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.csprojAssemblyReference.cache
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.csproj.CopyComplete
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.dll
+C:\Users\HP9GD85W8\Desktop\C# 15-03-2020 HOME SUNDAY 11 PM NEW\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.pdb
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\Book Club Web Service.dll.config
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\Book Club Web Service.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\Book Club Web Service.pdb
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csc.exe
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csc.exe.config
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csc.rsp
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csi.exe
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csi.exe.config
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csi.rsp
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.AppContext.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Console.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Net.Http.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\vbc.exe
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\vbc.exe.config
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\vbc.rsp
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.csprojAssemblyReference.cache
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.csproj.CopyComplete
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.dll
+C:\Users\Kami\Desktop\C# 16-03-2020 Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.pdb
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\Book Club Web Service.dll.config
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\Book Club Web Service.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\Book Club Web Service.pdb
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csc.exe
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csc.exe.config
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csc.rsp
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csi.exe
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csi.exe.config
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\csi.rsp
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.AppContext.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Console.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Net.Http.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\vbc.exe
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\vbc.exe.config
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\vbc.rsp
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.csprojAssemblyReference.cache
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.csproj.CopyComplete
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.dll
+C:\Users\Kami\Desktop\C# Semi-Complete (No documentation)\Project\Book Club Web Service\Book Club Web Service\obj\Debug\Book Club Web Service.pdb
